@@ -1,0 +1,7 @@
+
+terraform.tfstate.backup
+terraform.tfstate
+.terraform.lock.hcl
+.terraform/
+bionic-server-cloudimg-amd64.img
+.bionic.key.swp
